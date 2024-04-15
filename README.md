@@ -1,0 +1,1 @@
+Essentially, this project is an interpret for lox using Python. I was only able to figure this out due to the book crafting interpreters by Robert Nystorm. You can find teh book here: https://craftinginterpreters.com/contents.html
