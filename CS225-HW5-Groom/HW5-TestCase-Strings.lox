@@ -1,0 +1,9 @@
+
+
+print "hello";
+print "world";
+print "Hello World!";
+print "Hello " + "World!";
+print "";
+print "End of test: " + "Strings";
+

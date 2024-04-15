@@ -1,0 +1,67 @@
+
+// Single character grouping delimeters
+    (parenthesis)
+    {brace}
+
+// Single character operators or punctuation.
+    dot.
+    comma,
+    semicolon;
+    plus+
+    minus-
+    star*
+
+// Assignment
+    equal=
+
+// Illegal Characters
+@@@ $$$ @$@$@$
+
+// Comparison Operators (one or two chars each)
+    equalequal==
+    notequal!=
+    not!
+    LessThan<
+    LessThanOrEqualTo<=
+    GreaterThan>
+    GreaterThanOrEqualTo>=
+
+// String Literals
+    "Hello World!"
+    "not empty"
+    ""// empty
+
+// Numeric Literals
+1234567
+123.4567
+
+-1234567
+-123.4567
+
+// More Identifiers
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt.
+
+// Keywords
+and, class, else, false, fun, for, if, nil, or,
+print, return, super, this, true, var, while;
+
+// Line & Column Positions
+*
+ *
+  *
+   *
+    *
+     *
+      *
+       *
+        *
+         *
+          *
+           *
+            *
+             *
+              *
+               *
+// This is the last line of the file.
